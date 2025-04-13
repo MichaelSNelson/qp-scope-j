@@ -1,5 +1,7 @@
 # QuPath extension template
 
+[Documentation for old version of qp-scope](https://docs.google.com/document/d/1XBRZRJ0p-M71GUEMJQ4xSMDFfq8fcTMy6KwfbtxXz-Q/edit?tab=t.0)
+
 This repo contains a template and instructions to help create a new extension for [QuPath](https://qupath.github.io).
 
 It already contains two minimal extensions - one using Java, one using Groovy - so the first task is to make sure that they work.
